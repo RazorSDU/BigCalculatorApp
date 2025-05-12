@@ -35,7 +35,7 @@
 
 ```bash
 # clone & run
-git clone https://github.com/your-handle/BigCalculatorApp.git
+git clone https://github.com/RazorSDU/BigCalculatorApp.git
 cd BigCalculatorApp
 dotnet build
 dotnet run --project BigCalculatorApp
